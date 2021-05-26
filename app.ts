@@ -127,9 +127,9 @@ let ivan: IUser = {
 }
 
 // PARTIAL - ЧАСТКОВА ПЕРЕДАЧА - IMPORTANT !!!
-let viktor: Partial<IUser> = { // Important
-    age: 25,
-    name: 'Viktor'
+let elena: Partial<IUser> = { // Important
+    age: 38,
+    name: 'Elena'
 }
 
 userLogger([ivan]);
