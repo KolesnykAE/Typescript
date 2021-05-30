@@ -1,4 +1,4 @@
-// 1 - устанавливаем npm instal -g typescript
+// 1 - устанавливаем npm install -g typescript
 // 2 - создаем файл тс
 // 3- пишешь для проверки console.log(3)
 // 4- вводишь в терминале команду tsc app.ts

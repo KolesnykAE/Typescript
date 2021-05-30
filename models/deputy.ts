@@ -5,5 +5,7 @@ export interface IDeputy {
     age: number,
     gender: Egender,
     honesty: number,
-    min_bribe?: number
+    min_bribe?: number,
+    giveBribe: Function
+
 }
